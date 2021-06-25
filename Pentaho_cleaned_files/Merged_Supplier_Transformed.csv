@@ -1,0 +1,18 @@
+supplier_name,supplier_attn,supplier_address,supplier_city,supplier_state,supplier_zip
+Afg Indu,Dorothy Polk       ,5377 Cookbook Circle  ,Vero Beach      ,FL,32967
+American,Kimberly Yarborough,1616 Goggles Drive    ,Sterling        ,KS,67579
+Black Hi,Edena Gilbert      ,1618 Greenland Street ,Talahassee      ,FL,32304
+Black Hi,Edena Gilbert      ,1618 Greenland Street ,Tallahassee     ,FL,32304
+Dollar G,Antoinette Hickey  ,3988 Chanced Avenue   ,S Middleton     ,PA,17007
+Fedders ,Virgil Hubert      ,7844 Careless Drive   ,Overlook        ,WA,98366
+Fedders ,Virgil Hubert      ,7844 Carelessly Drive ,Overlook        ,WA,98366
+First Ba,Jensine Lease      ,11885 Aural Turnpike  ,Louisville      ,KY,40253
+Immunex ,Elbert Glad        ,5841 Pervades Drive   ,Fairfax         ,VA,22035
+PEC     ,,,,,
+Saurer G,Pearce Valdez      ,3727 Elms Drive       ,South Saint Paul,MN,55077
+Saurer G,Pearce Valdez      ,3737 Elms Drive       ,South Saint Paul,MN,55077
+Sinclair,Carla Shelby       ,6027 Ecuadorian Street,Clinton         ,MI,49236
+Sinclair,Carla Shelby       ,6037 Ecuadorian Street,Clinton         ,MI,49236
+Specialt,Zylina Cox         ,2161 Chalmers Street  ,Salinas         ,CA,93905
+TPC East,,,,,
+TPC West,,,,,

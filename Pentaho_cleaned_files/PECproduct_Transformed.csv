@@ -1,0 +1,44 @@
+product_id,product_description,price1,price2,unitCost,supplierName,productTypeID
+1,Enumerator Polishing Equipment       ,165,142.5,120.0,PEC     ,3
+2,Planetesimal Manufacturing Equipment ,347.3,307,250.0,PEC     ,2
+3,Tailor Jacks                         ,509.8,429.7,399.66,TPC West,15
+4,Miniaturizing Manufacturing Equipment,456.2,379.6,325.0,PEC     ,2
+5,Flake Photo Equipment                ,232.3,204.4,170.0,PEC     ,1
+6,Denigrating Polishing Equipment      ,566,454.5,402.0,PEC     ,3
+7,Bandage Manufacturing Equipment      ,298,267,234.0,PEC     ,2
+8,Chalmers Polishing Equipment         ,289.2,242.6,215.0,PEC     ,3
+9,Defeated Tray Supplies               ,559.7,476.9,448.29,TPC West,8
+10,Chartable Photo Equipment            ,410.2,347.4,295.0,PEC     ,9
+11,Sailors Manufacturing Equipment      ,340.5,290.4,235.0,PEC     ,2
+12,Chromium Photo Equipment             ,565.5,457.5,326.0,PEC     ,1
+13,Coward Covers                        ,429.8,349,328.05,TPC East,13
+14,Travelings Photo Chemicals           ,274.4,242,225.07,TPC West,9
+15,Syntax Polishing Equipment           ,226.7,190.9,123.0,PEC     ,3
+16,Insensitivity Manufacturing Equipment,200.7,180.4,117.0,PEC     ,2
+17,Sortie Covers                        ,248.2,213.2,206.81,TPC East,13
+18,Allis Polishing Equipment            ,201.8,176.3,112.0,PEC     ,3
+19,Habitually Manufacturing Equipment   ,509.3,419.1,354.0,PEC     ,2
+20,Courthouses Manufacturing Equipment  ,285.6,243.6,182.0,PEC     ,2
+21,Weeks Polishing Equipment            ,198.8,174.2,151.0,PEC     ,3
+22,Extinguisher Manufacturing Equipment ,120.4,98.4,65.0,PEC     ,2
+23,Occlusion Manufacturing Equipment    ,199.9,177.3,72.0,PEC     ,2
+24,Loaves Polishing Equipment           ,425.6,361.3,241.0,PEC     ,3
+25,Automobiles Fillers                  ,283.8,227.6,218.52,TPC East,12
+26,Simulations Photo Equipment          ,318.4,255.7,193.0,PEC     ,1
+27,Vastest Photo Equipment              ,498.1,442.3,294.0,PEC     ,1
+28,Palm Polishing Equipment             ,122.4,105.4,87.0,PEC     ,3
+29,Millimeters Flushing Chemicals       ,295.6,251.8,241.75,TPC East,10
+30,Suing Manufacturing Equipment        ,482.2,426.7,329.0,PEC     ,2
+31,Bellowing Polishing Equipment        ,502.6,451.3,400.0,PEC     ,3
+32,Embodying Cleaning Supplies          ,250.9,213.5,207.11,TPC West,5
+33,Pervasively Manufacturing Equipment  ,374.1,334.9,303.0,PEC     ,2
+34,Septembers Manufacturing Equipment   ,584.3,523,217.0,PEC     ,2
+35,Birthdays Manufacturing Equipment    ,196.6,173.2,115.0,PEC     ,2
+36,Duplicator Polishing Equipment       ,544.3,465.4,409.0,PEC     ,3
+37,Escape Manufacturing Equipment       ,584.4,523.6,463.0,PEC     ,2
+38,Commendation Fillers                 ,436.3,380,364.84,TPC West,12
+39,Disallow Manufacturing Equipment     ,165.2,145.9,97.0,PEC     ,2
+40,Subclasses Polishing Equipment       ,282.5,239,210.0,PEC     ,3
+41,Sulkiness Covers                     ,354.3,289.8,272.43,TPC East,13
+42,Concentrators Polishing Equipment    ,584.6,524.9,472.0,PEC     ,3
+43,Bomber Photo Equipment               ,461.3,400.4,336.0,PEC     ,1

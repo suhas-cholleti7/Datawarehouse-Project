@@ -1,0 +1,146 @@
+product_id,product_description,product_price1,product_price2,product_unit_cost,product_type_description,product_business_unit_name,product_business_unit_abbrev,sourceFlag
+1,                                     ,165,142.5,135.4,Polishing Equipment    ,Processing Equipment,Equipment,TPCW
+1,Enumerator Polishing Equipment       ,165,142.5,120,Polishing Equipment    ,Processing Equipment,Equipment,PEC
+2,                                     ,509.8,429.7,399.7,Jacks                  ,Miscellaneous       ,Misc.    ,TPCW
+2,Planetesimal Manufacturing Equipment ,347.3,307,250,Manufacturing Equipment,Processing Equipment,Equipment,PEC
+3,                                     ,248.2,213.2,206.8,Covers                 ,Miscellaneous       ,Misc.    ,TPCW
+3,Tailor Jacks                         ,509.8,429.7,399.7,Jacks                  ,Miscellaneous       ,Misc.    ,PEC
+4,                                     ,250.9,213.5,207.1,Cleaning Supplies      ,Disposable Supplies ,Supplies ,TPCW
+4,Miniaturizing Manufacturing Equipment,456.2,379.6,325,Manufacturing Equipment,Processing Equipment,Equipment,PEC
+5,                                     ,283.8,227.6,218.5,Fillers                ,Miscellaneous       ,Misc.    ,TPCW
+5,Flake Photo Equipment                ,232.3,204.4,170,Photo Equipment        ,Processing Equipment,Equipment,PEC
+6,                                     ,347.3,307,285.5,Manufacturing Equipment,Processing Equipment,Equipment,TPCW
+6,Denigrating Polishing Equipment      ,566,454.5,402,Polishing Equipment    ,Processing Equipment,Equipment,PEC
+7,                                     ,436.3,380,364.8,Fillers                ,Miscellaneous       ,Misc.    ,TPCW
+7,Bandage Manufacturing Equipment      ,298,267,234,Manufacturing Equipment,Processing Equipment,Equipment,PEC
+8,                                     ,584.3,523,517.8,Manufacturing Equipment,Processing Equipment,Equipment,TPCW
+8,Chalmers Polishing Equipment         ,289.2,242.6,215,Polishing Equipment    ,Processing Equipment,Equipment,PEC
+9,                                     ,295.6,251.8,241.8,Flushing Chemicals     ,Chemicals           ,Chemicals,TPCW
+9,Defeated Tray Supplies               ,559.7,476.9,448.3,Tray Supplies          ,Disposable Supplies ,Supplies ,PEC
+10,                                     ,559.7,476.9,448.3,Tray Supplies          ,Disposable Supplies ,Supplies ,TPCW
+10,Chartable Photo Equipment            ,410.2,347.4,295,Photo Chemicals        ,Chemicals           ,Chemicals,PEC
+11,                                     ,354.3,289.8,272.4,Covers                 ,Miscellaneous       ,Misc.    ,TPCW
+11,Sailors Manufacturing Equipment      ,340.5,290.4,235,Manufacturing Equipment,Processing Equipment,Equipment,PEC
+12,Chromium Photo Equipment             ,565.5,457.5,326,Photo Equipment        ,Processing Equipment,Equipment,PEC
+13,                                     ,429.8,349,328.1,Covers                 ,Miscellaneous       ,Misc.    ,TPCW
+13,Coward Covers                        ,429.8,349,328.1,Covers                 ,Miscellaneous       ,Misc.    ,PEC
+14,                                     ,429.9,346.1,342.6,Photo Chemicals        ,Chemicals           ,Chemicals,TPCW
+14,Travelings Photo Chemicals           ,274.4,242,225.1,Photo Chemicals        ,Chemicals           ,Chemicals,PEC
+15,                                     ,158.8,138,132.5,Fillers                ,Miscellaneous       ,Misc.    ,TPCW
+15,Syntax Polishing Equipment           ,226.7,190.9,123,Polishing Equipment    ,Processing Equipment,Equipment,PEC
+16,                                     ,461,384.4,361.4,Covers                 ,Miscellaneous       ,Misc.    ,TPCW
+16,Insensitivity Manufacturing Equipment,200.7,180.4,117,Manufacturing Equipment,Processing Equipment,Equipment,PEC
+17,                                     ,288.4,255.5,242.8,Cleaning Supplies      ,Disposable Supplies ,Supplies ,TPCW
+17,Sortie Covers                        ,248.2,213.2,206.8,Covers                 ,Miscellaneous       ,Misc.    ,PEC
+18,                                     ,456.2,379.6,353,Manufacturing Equipment,Processing Equipment,Equipment,TPCW
+18,Allis Polishing Equipment            ,201.8,176.3,112,Polishing Equipment    ,Processing Equipment,Equipment,PEC
+19,                                     ,124.5,100.1,96.1,Jacks                  ,Miscellaneous       ,Misc.    ,TPCW
+19,Habitually Manufacturing Equipment   ,509.3,419.1,354,Manufacturing Equipment,Processing Equipment,Equipment,PEC
+20,                                     ,232.3,204.4,194.2,Photo Equipment        ,Processing Equipment,Equipment,TPCW
+20,Courthouses Manufacturing Equipment  ,285.6,243.6,182,Manufacturing Equipment,Processing Equipment,Equipment,PEC
+21,                                     ,566,454.5,427.2,Polishing Equipment    ,Processing Equipment,Equipment,TPCW
+21,Weeks Polishing Equipment            ,198.8,174.2,151,Polishing Equipment    ,Processing Equipment,Equipment,PEC
+22,                                     ,488.6,410.4,389.9,Covers                 ,Miscellaneous       ,Misc.    ,TPCW
+22,Extinguisher Manufacturing Equipment ,120.4,98.4,65,Manufacturing Equipment,Processing Equipment,Equipment,PEC
+23,                                     ,233.3,202.3,198.2,Tray Supplies          ,Disposable Supplies ,Supplies ,TPCW
+23,Occlusion Manufacturing Equipment    ,199.9,177.3,72,Manufacturing Equipment,Processing Equipment,Equipment,PEC
+24,                                     ,298,267,253.7,Manufacturing Equipment,Processing Equipment,Equipment,TPCW
+24,Loaves Polishing Equipment           ,425.6,361.3,241,Polishing Equipment    ,Processing Equipment,Equipment,PEC
+25,                                     ,289.2,242.6,223.2,Polishing Equipment    ,Processing Equipment,Equipment,TPCW
+25,Automobiles Fillers                  ,283.8,227.6,218.5,Fillers                ,Miscellaneous       ,Misc.    ,PEC
+26,                                     ,282.5,239,236.6,Polishing Equipment    ,Processing Equipment,Equipment,TPCW
+26,Simulations Photo Equipment          ,318.4,255.7,193,Photo Equipment        ,Processing Equipment,Equipment,PEC
+27,                                     ,337.2,302.4,287.3,Plastic Supplies       ,Disposable Supplies ,Supplies ,TPCW
+27,Vastest Photo Equipment              ,498.1,442.3,294,Photo Equipment        ,Processing Equipment,Equipment,PEC
+28,                                     ,547.2,467.3,453.3,Covers                 ,Miscellaneous       ,Misc.    ,TPCW
+28,Palm Polishing Equipment             ,122.4,105.4,87,Polishing Equipment    ,Processing Equipment,Equipment,PEC
+29,                                     ,507.4,428.2,398.2,Fillers                ,Miscellaneous       ,Misc.    ,TPCW
+29,Millimeters Flushing Chemicals       ,295.6,251.8,241.8,Flushing Chemicals     ,Chemicals           ,Chemicals,PEC
+30,                                     ,283.3,248.5,236.1,Jacks                  ,Miscellaneous       ,Misc.    ,TPCW
+30,Suing Manufacturing Equipment        ,482.2,426.7,329,Manufacturing Equipment,Processing Equipment,Equipment,PEC
+31,                                     ,408.8,349.1,328.2,Tray Supplies          ,Disposable Supplies ,Supplies ,TPCW
+31,Bellowing Polishing Equipment        ,502.6,451.3,400,Polishing Equipment    ,Processing Equipment,Equipment,PEC
+32,                                     ,410.2,347.4,312.7,Photo Equipment        ,Processing Equipment,Equipment,TPCW
+32,Embodying Cleaning Supplies          ,250.9,213.5,207.1,Cleaning Supplies      ,Disposable Supplies ,Supplies ,PEC
+33,                                     ,395.7,347.4,337,Tray Supplies          ,Disposable Supplies ,Supplies ,TPCW
+33,Pervasively Manufacturing Equipment  ,374.1,334.9,303,Manufacturing Equipment,Processing Equipment,Equipment,PEC
+34,                                     ,340.5,290.4,278.8,Manufacturing Equipment,Processing Equipment,Equipment,TPCW
+34,Septembers Manufacturing Equipment   ,584.3,523,217,Manufacturing Equipment,Processing Equipment,Equipment,PEC
+35,                                     ,565.5,457.5,425.5,Photo Equipment        ,Processing Equipment,Equipment,TPCW
+35,Birthdays Manufacturing Equipment    ,196.6,173.2,115,Manufacturing Equipment,Processing Equipment,Equipment,PEC
+36,                                     ,461.3,400.4,380.4,Photo Equipment        ,Processing Equipment,Equipment,TPCW
+36,Duplicator Polishing Equipment       ,544.3,465.4,409,Polishing Equipment    ,Processing Equipment,Equipment,PEC
+37,                                     ,584.6,524.9,482.9,Polishing Equipment    ,Processing Equipment,Equipment,TPCW
+37,Escape Manufacturing Equipment       ,584.4,523.6,463,Manufacturing Equipment,Processing Equipment,Equipment,PEC
+38,                                     ,226.7,190.9,177.5,Polishing Equipment    ,Processing Equipment,Equipment,TPCW
+38,Commendation Fillers                 ,436.3,380,364.8,Fillers                ,Miscellaneous       ,Misc.    ,PEC
+39,                                     ,301.1,254.4,241.7,Plastic Supplies       ,Disposable Supplies ,Supplies ,TPCW
+39,Disallow Manufacturing Equipment     ,165.2,145.9,97,Manufacturing Equipment,Processing Equipment,Equipment,PEC
+40,                                     ,200.7,180.4,169.6,Manufacturing Equipment,Processing Equipment,Equipment,TPCW
+40,Subclasses Polishing Equipment       ,282.5,239,210,Polishing Equipment    ,Processing Equipment,Equipment,PEC
+41,                                     ,172.6,146.8,139.5,Tray Supplies          ,Disposable Supplies ,Supplies ,TPCW
+41,Sulkiness Covers                     ,354.3,289.8,272.4,Covers                 ,Miscellaneous       ,Misc.    ,PEC
+42,                                     ,559.7,467.9,425.8,Freezing Chemicals     ,Chemicals           ,Chemicals,TPCW
+42,Concentrators Polishing Equipment    ,584.6,524.9,472,Polishing Equipment    ,Processing Equipment,Equipment,PEC
+43,                                     ,495,416.8,404.3,Covers                 ,Miscellaneous       ,Misc.    ,TPCW
+43,Bomber Photo Equipment               ,461.3,400.4,336,Photo Equipment        ,Processing Equipment,Equipment,PEC
+44,                                     ,196.6,173.2,161.1,Manufacturing Equipment,Processing Equipment,Equipment,TPCW
+45,                                     ,495,400,388,Jacks                  ,Miscellaneous       ,Misc.    ,TPCW
+46,                                     ,518.5,436.1,418.6,Paper Supplies         ,Disposable Supplies ,Supplies ,TPCW
+47,                                     ,141.6,113.2,104.2,Freezing Chemicals     ,Chemicals           ,Chemicals,TPCW
+48,                                     ,351.5,284.8,264.8,Cleaning Supplies      ,Disposable Supplies ,Supplies ,TPCW
+49,                                     ,567.8,507.6,467,Flushing Chemicals     ,Chemicals           ,Chemicals,TPCW
+50,                                     ,524.4,448.3,425.9,Paper Supplies         ,Disposable Supplies ,Supplies ,TPCW
+51,                                     ,497.9,447.6,438.6,Lifts                  ,Miscellaneous       ,Misc.    ,TPCW
+52,                                     ,578.1,465.9,447.3,Freezing Chemicals     ,Chemicals           ,Chemicals,TPCW
+53,                                     ,476.4,394.9,379.1,Freezing Chemicals     ,Chemicals           ,Chemicals,TPCW
+54,                                     ,326.1,292.2,271.8,Photo Chemicals        ,Chemicals           ,Chemicals,TPCW
+55,                                     ,545.3,466.2,447.6,Plastic Supplies       ,Disposable Supplies ,Supplies ,TPCW
+56,                                     ,201.8,176.3,160.5,Polishing Equipment    ,Processing Equipment,Equipment,TPCW
+57,                                     ,241.3,205.1,203.1,Tray Supplies          ,Disposable Supplies ,Supplies ,TPCW
+58,                                     ,231.7,185.6,168.9,Plastic Supplies       ,Disposable Supplies ,Supplies ,TPCW
+59,                                     ,368.8,315.6,309.3,Plastic Supplies       ,Disposable Supplies ,Supplies ,TPCW
+60,                                     ,509.3,419.1,394,Manufacturing Equipment,Processing Equipment,Equipment,TPCW
+61,                                     ,285.6,243.6,231.4,Manufacturing Equipment,Processing Equipment,Equipment,TPCW
+62,                                     ,507.3,409.9,397.6,Flushing Chemicals     ,Chemicals           ,Chemicals,TPCW
+63,                                     ,198.8,174.2,168.9,Polishing Equipment    ,Processing Equipment,Equipment,TPCW
+64,                                     ,583.9,487.5,463.1,Fillers                ,Miscellaneous       ,Misc.    ,TPCW
+65,                                     ,120.4,98.4,90.5,Manufacturing Equipment,Processing Equipment,Equipment,TPCW
+66,                                     ,198.4,160.9,152.8,Freezing Chemicals     ,Chemicals           ,Chemicals,TPCW
+67,                                     ,199.9,177.3,164.9,Manufacturing Equipment,Processing Equipment,Equipment,TPCW
+68,                                     ,425.6,361.3,354.1,Polishing Equipment    ,Processing Equipment,Equipment,TPCW
+69,                                     ,439.5,359.1,341.1,Tray Supplies          ,Disposable Supplies ,Supplies ,TPCW
+70,                                     ,584.4,523.6,507.9,Manufacturing Equipment,Processing Equipment,Equipment,TPCW
+71,                                     ,318.4,255.7,245.4,Photo Equipment        ,Processing Equipment,Equipment,TPCW
+72,                                     ,134.9,112.4,109,Tray Supplies          ,Disposable Supplies ,Supplies ,TPCW
+73,                                     ,298.9,267.8,254.4,Jacks                  ,Miscellaneous       ,Misc.    ,TPCW
+74,                                     ,271.4,236.2,219.6,Fillers                ,Miscellaneous       ,Misc.    ,TPCW
+75,                                     ,145,124.4,113.2,Freezing Chemicals     ,Chemicals           ,Chemicals,TPCW
+76,                                     ,301.6,251.2,248.7,Jacks                  ,Miscellaneous       ,Misc.    ,TPCW
+77,                                     ,498.1,442.3,420.2,Photo Equipment        ,Processing Equipment,Equipment,TPCW
+78,                                     ,318.1,270.7,254.4,Photo Chemicals        ,Chemicals           ,Chemicals,TPCW
+79,                                     ,155,136.4,132.3,Plastic Supplies       ,Disposable Supplies ,Supplies ,TPCW
+80,                                     ,477.5,408.3,371.5,Plastic Supplies       ,Disposable Supplies ,Supplies ,TPCW
+81,                                     ,122.4,105.4,103.3,Polishing Equipment    ,Processing Equipment,Equipment,TPCW
+82,                                     ,102.9,89,83.6,Covers                 ,Miscellaneous       ,Misc.    ,TPCW
+83,                                     ,487.3,402.5,366.3,Lifts                  ,Miscellaneous       ,Misc.    ,TPCW
+84,                                     ,222.5,182.2,176.7,Paper Supplies         ,Disposable Supplies ,Supplies ,TPCW
+85,                                     ,165.2,145.9,144.4,Manufacturing Equipment,Processing Equipment,Equipment,TPCW
+86,                                     ,406.9,345.9,345.9,Cleaning Supplies      ,Disposable Supplies ,Supplies ,TPCW
+87,                                     ,482.2,426.7,401.1,Manufacturing Equipment,Processing Equipment,Equipment,TPCW
+88,                                     ,231.4,192.1,186.3,Tray Supplies          ,Disposable Supplies ,Supplies ,TPCW
+89,                                     ,129.8,108.8,103.4,Paper Supplies         ,Disposable Supplies ,Supplies ,TPCW
+90,                                     ,419.4,364.4,338.9,Cleaning Supplies      ,Disposable Supplies ,Supplies ,TPCW
+91,                                     ,492.4,405.7,397.6,Plastic Supplies       ,Disposable Supplies ,Supplies ,TPCW
+92,                                     ,166.7,139,129.3,Tray Supplies          ,Disposable Supplies ,Supplies ,TPCW
+93,                                     ,502.6,451.3,446.8,Polishing Equipment    ,Processing Equipment,Equipment,TPCW
+94,                                     ,566.6,483.9,454.9,Freezing Chemicals     ,Chemicals           ,Chemicals,TPCW
+95,                                     ,544.3,465.4,432.8,Polishing Equipment    ,Processing Equipment,Equipment,TPCW
+96,                                     ,107.1,92.7,89,Cleaning Supplies      ,Disposable Supplies ,Supplies ,TPCW
+97,                                     ,575.9,502.8,467.6,Paper Supplies         ,Disposable Supplies ,Supplies ,TPCW
+98,                                     ,135.1,116.6,108.4,Flushing Chemicals     ,Chemicals           ,Chemicals,TPCW
+99,                                     ,529.4,475.4,470.6,Freezing Chemicals     ,Chemicals           ,Chemicals,TPCW
+100,                                     ,374.1,334.9,308.1,Manufacturing Equipment,Processing Equipment,Equipment,TPCW
+103,                                     ,493.4,406.8,385.4,Lifts                  ,Miscellaneous       ,Misc.    ,TPCW
+104,                                     ,289.4,231.4,211.8,Covers                 ,Miscellaneous       ,Misc.    ,TPCW
+105,                                     ,278.6,201.3,192.7,Paper Supplies         ,Disposable Supplies ,Supplies ,TPCW
